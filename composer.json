@@ -1,0 +1,9 @@
+{
+	"name": "beck24/elgg_passwordreset",
+	"type": "elgg-plugin",
+	"description": "Fix elgg password reset in legacy elgg 2.3",
+	"require": {
+		"php": ">=5.5",
+		"composer/installers": "~1.0"
+	}
+}
